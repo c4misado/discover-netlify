@@ -8,4 +8,4 @@
 
 ## Deployment
 
-* Link to the website deployed on Netlify : [Link]()
+* Link to the website deployed on Netlify : [Link](https://suspicious-mccarthy-b5b91a.netlify.app/)
